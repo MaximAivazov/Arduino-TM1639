@@ -1,0 +1,7 @@
+#Цветовое оформление функций/констант/... в коде:
+
+initTM1639	KEYWORD2
+printTM1639	KEYWORD2
+lightTM1639	KEYWORD2
+controlTM1639	KEYWORD2
+buttonstatusTM1639	KEYWORD2
